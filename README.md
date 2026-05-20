@@ -26,10 +26,17 @@
 </p>
 
 ### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cursor,arduino,linux" />
-</p>
+## ⚡ Frameworks & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,arduino,linux,nodejs" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Antigravity-0f172a?style=for-the-badge&logo=rocket&logoColor=00F7FF" />
+</p>
 ---
 
 ## 📊 GitHub Stats
