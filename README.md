@@ -25,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,sql" />
 </p>
 
-### Frameworks & Tools
-## ⚡ Frameworks & Tools
 
 ## ⚡ Frameworks & Tools
 
