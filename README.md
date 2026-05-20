@@ -22,12 +22,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,sql" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,antigravity,cursor,arduino" />
 </p>
 
 ---
