@@ -27,7 +27,7 @@
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,vercel,render" />
 </p>
 
 ---
