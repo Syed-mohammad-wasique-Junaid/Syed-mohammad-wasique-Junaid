@@ -27,7 +27,7 @@
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,antigravity,cursor,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cursor,arduino,linux" />
 </p>
 
 ---
